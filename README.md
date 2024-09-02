@@ -43,19 +43,6 @@ Computer Vision:<br>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
  <br/>
-  Mobile:<br>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.android.com/intl/tr_tr/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163914-80846021-0bf6-41d9-9cf4-5a7a6ed093bd.png" width="36" height="36" alt="Native Android" /></a>
-<a href="https://play.google.com/console/about/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163937-bf2078a1-ad2d-41b1-a6a2-d635142fe1c2.png" width="36" height="36" alt="Google Play" /></a>
-<a href="https://admob.google.com/intl/tr/home/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163988-a27828de-de6b-4367-a9f2-b9364b887547.png" width="36" height="36" alt="Admob" /></a>
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164044-d969e912-917c-4095-b3e0-0488e8ddec3d.png" width="36" height="36" alt="Firebase" /></a><br>
-Other:<br>
- <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164786-86a2b1fe-5f77-4a5d-b186-31270b58593c.png" width="36" height="36" alt="linux" /></a>
-  <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164662-5b668b6e-8db3-4bbd-ae22-870e4941ce04.png" width="36" height="36" alt="Markdown" /></a>
-    <a href="https://emscripten.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166164698-d076018f-658d-44f9-887d-b280a152d4d3.png" width="36" height="36" alt="Web Assembly" /></a>
-<a href="https://www.photopea.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-  <br/>
 
 
   
