@@ -23,5 +23,4 @@ Technologies I've used
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/trbasoglu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163298-24197ebd-a68d-4e91-839d-036f7d41d179.png" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/trbasoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   <a href="http://www.medium.com/trbasoglu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163085-b8ad31b9-4735-41f0-84db-533640ef13c3.png"
-width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/GokCoder" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163298-24197ebd-a68d-4e91-839d-036f7d41d179.png" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/gokcoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
