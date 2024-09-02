@@ -7,7 +7,7 @@ Full-Stack Web Developer
 Hi, I'm Web Developer Who still uses Php in 2024.
 
 * 🌍  I'm based in Zonguldak, Türkiye
-* 🖥️  See my portfolio at [www.gokcoder.pw]([http://trbasoglu.github.io](https://www.gokcoder.pw))
+* 🖥️  See my portfolio at [www.gokcoder.pw](https://www.gokcoder.pw)
 * ✉️  You can contact me at [urasb001@gmail.com](mailto:urasb001@gmail.com)
 * 🚀  I'm currently working at [Nave Bilişim](https://www.navebilisim.com)
 
@@ -17,7 +17,7 @@ Technologies I've used
     <h2>Web Development<h2/>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Php-logo.png" width="36" height="36" alt="Fast API" /></a>
     <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
