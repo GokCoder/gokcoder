@@ -21,22 +21,6 @@ Technologies I've used
   <br/>
 </p>
 
-<p>&nbsp;<a href="https://github.com/trbasoglu#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trbasoglu&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="trbasoglu" /></a>
-<a href="https://github.com/trbasoglu#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trbasoglu&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="trbasoglu" /></a>
-</p> 
-<br>
-<br />
-
-<p><a href="https://github.com/trbasoglu#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=trbasoglu&theme=nightowl#gh-dark-mode-only" alt="trbasoglu"/></a>
-<a href="https://github.com/trbasoglu#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=trbasoglu&theme=vue#gh-light-mode-only" alt="trbasoglu"/></a></p>
-<br/>
-<br />
-
-<p><a href="https://github.com/trbasoglu#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trbasoglu&theme=nightowl#gh-dark-mode-only" alt="trbasoglu" /></a>
-<a href="https://github.com/trbasoglu#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trbasoglu&theme=vue#gh-light-mode-only" alt="trbasoglu" /></a></p>
-<br/>
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/trbasoglu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163298-24197ebd-a68d-4e91-839d-036f7d41d179.png" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/trbasoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   <a href="http://www.medium.com/trbasoglu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163085-b8ad31b9-4735-41f0-84db-533640ef13c3.png"
